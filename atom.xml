@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>dawn1ight的小屋</title>
+  <icon>https://dawn1ight.github.io/icon.png</icon>
+  
+  <link href="https://dawn1ight.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://dawn1ight.github.io/"/>
+  <updated>2024-06-07T23:50:56.834Z</updated>
+  <id>https://dawn1ight.github.io/</id>
+  
+  <author>
+    <name>dawn1ight</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://dawn1ight.github.io/post/hello-world/"/>
+    <id>https://dawn1ight.github.io/post/hello-world/</id>
+    <published>2024-06-04T16:00:00.000Z</published>
+    <updated>2024-06-07T23:50:56.834Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
