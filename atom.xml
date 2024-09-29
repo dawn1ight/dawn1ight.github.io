@@ -6,7 +6,7 @@
   <link href="https://dawn1ight.github.io/atom.xml" rel="self"/>
   
   <link href="https://dawn1ight.github.io/"/>
-  <updated>2024-07-11T11:59:39.605Z</updated>
+  <updated>2024-09-29T02:28:06.222Z</updated>
   <id>https://dawn1ight.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PatriotCTF 2024 Crypto Writeup</title>
+    <link href="https://dawn1ight.github.io/post/11600/"/>
+    <id>https://dawn1ight.github.io/post/11600/</id>
+    <published>2024-09-28T16:00:00.000Z</published>
+    <updated>2024-09-29T02:28:06.222Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;patriotctf-2024-crypto-writeup&quot;&gt;PatriotCTF 2024 Crypto Writeup&lt;/h2&gt;
+&lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;About: PatriotCTF is a beginner-friendly capture-the-flag competition hosted by GMU’s cybersecurity club, MasonCC. All are welcome to</summary>
+        
+      
+    
+    
+    
+    <category term="WriteUP" scheme="https://dawn1ight.github.io/categories/WriteUP/"/>
+    
+    
+    <category term="WriteUP" scheme="https://dawn1ight.github.io/tags/WriteUP/"/>
+    
+  </entry>
   
   <entry>
     <title>信息论与编码课程实验</title>
