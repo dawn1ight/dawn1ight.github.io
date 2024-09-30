@@ -6,7 +6,7 @@
   <link href="https://dawn1ight.github.io/atom.xml" rel="self"/>
   
   <link href="https://dawn1ight.github.io/"/>
-  <updated>2024-09-29T02:41:19.603Z</updated>
+  <updated>2024-09-30T08:16:22.796Z</updated>
   <id>https://dawn1ight.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>SCTF 2024 Crypto WriteUp</title>
+    <link href="https://dawn1ight.github.io/post/30110/"/>
+    <id>https://dawn1ight.github.io/post/30110/</id>
+    <published>2024-09-28T16:00:00.000Z</published>
+    <updated>2024-09-30T08:16:22.796Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;sctf&quot;&gt;SCTF&lt;/h2&gt;
+&lt;h3 id=&quot;1-signin&quot;&gt;1. Signin&lt;/h3&gt;
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;from&lt;/span&gt; sage.&lt;span class=&quot;built_in&quot;&gt;all&lt;/span&gt; &lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="WriteUP" scheme="https://dawn1ight.github.io/categories/WriteUP/"/>
+    
+    
+    <category term="WriteUP" scheme="https://dawn1ight.github.io/tags/WriteUP/"/>
+    
+  </entry>
+  
+  <entry>
     <title>PatriotCTF 2024 Crypto Writeup</title>
     <link href="https://dawn1ight.github.io/post/11600/"/>
     <id>https://dawn1ight.github.io/post/11600/</id>
     <published>2024-09-28T16:00:00.000Z</published>
-    <updated>2024-09-29T02:41:19.603Z</updated>
+    <updated>2024-09-29T02:43:30.338Z</updated>
     
     
       
