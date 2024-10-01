@@ -6,7 +6,7 @@
   <link href="https://dawn1ight.github.io/atom.xml" rel="self"/>
   
   <link href="https://dawn1ight.github.io/"/>
-  <updated>2024-09-30T08:16:22.796Z</updated>
+  <updated>2024-10-01T03:49:27.486Z</updated>
   <id>https://dawn1ight.github.io/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="https://dawn1ight.github.io/post/30110/"/>
     <id>https://dawn1ight.github.io/post/30110/</id>
     <published>2024-09-28T16:00:00.000Z</published>
-    <updated>2024-09-30T08:16:22.796Z</updated>
+    <updated>2024-10-01T03:49:27.486Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;sctf&quot;&gt;SCTF&lt;/h2&gt;
-&lt;h3 id=&quot;1-signin&quot;&gt;1. Signin&lt;/h3&gt;
-&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;from&lt;/span&gt; sage.&lt;span class=&quot;built_in&quot;&gt;all&lt;/span&gt; &lt;span</summary>
+    <summary type="html">&lt;h2 id=&quot;sctf-2024-crypto-writeup&quot;&gt;SCTF 2024 Crypto WriteUp&lt;/h2&gt;
+&lt;p&gt;这次题目质量都可以，每一个题都能学到新东西。&lt;/p&gt;
+&lt;p&gt;Reference: &lt;a href=&quot;https://blog.wm-team.cn/index.php/archives/82/&quot;&gt;SCTF 2024 By W&amp;amp;M - W&amp;amp;M Team (wm-team.cn)&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;1-signin&quot;&gt;1.</summary>
         
       
     
