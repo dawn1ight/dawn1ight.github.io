@@ -6,7 +6,7 @@
   <link href="https://dawn1ight.github.io/atom.xml" rel="self"/>
   
   <link href="https://dawn1ight.github.io/"/>
-  <updated>2024-10-05T08:02:06.724Z</updated>
+  <updated>2024-10-06T03:01:23.964Z</updated>
   <id>https://dawn1ight.github.io/</id>
   
   <author>
@@ -17,11 +17,70 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>0xGame2024 Crypto WriteUp</title>
+    <link href="https://dawn1ight.github.io/post/44080/"/>
+    <id>https://dawn1ight.github.io/post/44080/</id>
+    <published>2024-10-05T16:00:00.000Z</published>
+    <updated>2024-10-06T03:01:23.964Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0xgame2024-crypto-writeup&quot;&gt;0xGame2024 Crypto WriteUp&lt;/h1&gt;
+&lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;记录一下几个值得学习的题目&lt;/p&gt;
+&lt;p&gt;Challenge: &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Crypto" scheme="https://dawn1ight.github.io/categories/Crypto/"/>
+    
+    
+    <category term="WriteUp" scheme="https://dawn1ight.github.io/tags/WriteUp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SHCTF2024 WriteUp</title>
+    <link href="https://dawn1ight.github.io/post/23197/"/>
+    <id>https://dawn1ight.github.io/post/23197/</id>
+    <published>2024-10-04T16:00:00.000Z</published>
+    <updated>2024-10-11T15:01:46.086Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;shctf2024-writeup&quot;&gt;SHCTF2024 WriteUp&lt;/h1&gt;
+&lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;记录一下几个值得学习的题目&lt;/p&gt;
+&lt;p&gt;Challenge: &lt;a href=&quot;https://shc.tf/&quot;&gt;https://shc.tf/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;week1-baby-mod&quot;&gt;[Week1] baby_mod&lt;/h2&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="Crypto" scheme="https://dawn1ight.github.io/categories/Crypto/"/>
+    
+    
+    <category term="WriteUp" scheme="https://dawn1ight.github.io/tags/WriteUp/"/>
+    
+  </entry>
+  
+  <entry>
     <title>PatriotCTF 2024 Crypto Writeup</title>
     <link href="https://dawn1ight.github.io/post/11600/"/>
     <id>https://dawn1ight.github.io/post/11600/</id>
     <published>2024-09-28T16:00:00.000Z</published>
-    <updated>2024-10-05T08:02:06.724Z</updated>
+    <updated>2024-10-06T03:01:59.188Z</updated>
     
     
       
@@ -36,10 +95,10 @@
     
     
     
-    <category term="WriteUP" scheme="https://dawn1ight.github.io/categories/WriteUP/"/>
+    <category term="Crypto" scheme="https://dawn1ight.github.io/categories/Crypto/"/>
     
     
-    <category term="WriteUP" scheme="https://dawn1ight.github.io/tags/WriteUP/"/>
+    <category term="WriteUp" scheme="https://dawn1ight.github.io/tags/WriteUp/"/>
     
   </entry>
   
@@ -48,7 +107,7 @@
     <link href="https://dawn1ight.github.io/post/30110/"/>
     <id>https://dawn1ight.github.io/post/30110/</id>
     <published>2024-09-28T16:00:00.000Z</published>
-    <updated>2024-10-05T08:01:39.634Z</updated>
+    <updated>2024-10-06T03:02:02.197Z</updated>
     
     
       
@@ -56,18 +115,18 @@
         
         
     <summary type="html">&lt;h1 id=&quot;sctf-2024-crypto-writeup&quot;&gt;SCTF 2024 Crypto WriteUp&lt;/h1&gt;
+&lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;这次题目质量都可以，每一个题都能学到新东西。&lt;/p&gt;
-&lt;p&gt;Reference: &lt;a href=&quot;https://blog.wm-team.cn/index.php/archives/82/&quot;&gt;SCTF 2024 By W&amp;amp;M - W&amp;amp;M Team (wm-team.cn)&lt;/a&gt;&lt;/p&gt;
-&lt;h2</summary>
+&lt;p&gt;Reference: &lt;a href=&quot;https://blog.wm-team.cn/index.php/archives/82/&quot;&gt;SCTF 2024 By W&amp;amp;M - W&amp;amp;M Team</summary>
         
       
     
     
     
-    <category term="WriteUP" scheme="https://dawn1ight.github.io/categories/WriteUP/"/>
+    <category term="Crypto" scheme="https://dawn1ight.github.io/categories/Crypto/"/>
     
     
-    <category term="WriteUP" scheme="https://dawn1ight.github.io/tags/WriteUP/"/>
+    <category term="WriteUp" scheme="https://dawn1ight.github.io/tags/WriteUp/"/>
     
   </entry>
   
