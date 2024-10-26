@@ -6,7 +6,7 @@
   <link href="https://dawn1ight.github.io/atom.xml" rel="self"/>
   
   <link href="https://dawn1ight.github.io/"/>
-  <updated>2024-10-22T07:56:04.883Z</updated>
+  <updated>2024-10-26T08:38:17.400Z</updated>
   <id>https://dawn1ight.github.io/</id>
   
   <author>
@@ -17,39 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>0xGame2024 Crypto WriteUp</title>
-    <link href="https://dawn1ight.github.io/post/44080/"/>
-    <id>https://dawn1ight.github.io/post/44080/</id>
-    <published>2024-10-05T16:00:00.000Z</published>
-    <updated>2024-10-22T07:56:04.883Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;0xgame2024-crypto-writeup&quot;&gt;0xGame2024 Crypto WriteUp&lt;/h1&gt;
-&lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;记录一下几个值得学习的题目&lt;/p&gt;
-&lt;p&gt;Challenge: &lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="Crypto" scheme="https://dawn1ight.github.io/categories/Crypto/"/>
-    
-    
-    <category term="WriteUp" scheme="https://dawn1ight.github.io/tags/WriteUp/"/>
-    
-  </entry>
-  
-  <entry>
     <title>SHCTF2024 WriteUp</title>
     <link href="https://dawn1ight.github.io/post/23197/"/>
     <id>https://dawn1ight.github.io/post/23197/</id>
     <published>2024-10-04T16:00:00.000Z</published>
-    <updated>2024-10-23T07:23:07.937Z</updated>
+    <updated>2024-10-26T08:38:17.400Z</updated>
     
     
       
