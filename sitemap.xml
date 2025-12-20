@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dawn1ight.github.io/books/index.html</loc>
+    
+    <lastmod>2025-12-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dawn1ight.github.io/about/index.html</loc>
     
     <lastmod>2025-01-01</lastmod>
@@ -83,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://dawn1ight.github.io/books/index.html</loc>
-    
-    <lastmod>2024-10-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://dawn1ight.github.io/post/1/</loc>
     
     <lastmod>2024-07-11</lastmod>
@@ -139,7 +139,7 @@
 
   <url>
     <loc>https://dawn1ight.github.io/</loc>
-    <lastmod>2025-03-27</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,14 +147,14 @@
   
   <url>
     <loc>https://dawn1ight.github.io/tags/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2025-03-27</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dawn1ight.github.io/tags/WriteUP/</loc>
-    <lastmod>2025-03-27</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -163,14 +163,14 @@
   
   <url>
     <loc>https://dawn1ight.github.io/categories/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2025-03-27</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dawn1ight.github.io/categories/Crypto/</loc>
-    <lastmod>2025-03-27</lastmod>
+    <lastmod>2025-12-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
