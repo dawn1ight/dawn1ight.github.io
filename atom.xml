@@ -6,7 +6,7 @@
   <link href="https://dawn1ight.github.io/atom.xml" rel="self"/>
   
   <link href="https://dawn1ight.github.io/"/>
-  <updated>2024-12-30T07:22:07.200Z</updated>
+  <updated>2025-12-29T02:09:25.342Z</updated>
   <id>https://dawn1ight.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>第十九届全国大学生信息安全竞赛 Crypto WriteUp</title>
+    <link href="https://dawn1ight.github.io/post/30479/"/>
+    <id>https://dawn1ight.github.io/post/30479/</id>
+    <published>2025-12-28T16:00:00.000Z</published>
+    <updated>2025-12-29T02:09:25.342Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;第十九届全国大学生信息安全竞赛-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#第十九届全国大学生信息安全竞赛-crypto-writeup&quot;&gt;&lt;/a&gt; 第十九届全国大学生信息安全竞赛 Crypto WriteUp&lt;/h1&gt;
+&lt;h2 id=&quot;ecdsa&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#ecdsa&quot;&gt;&lt;/a&gt; ECDSA&lt;/h2&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    <category term="Crypto" scheme="https://dawn1ight.github.io/categories/Crypto/"/>
+    
+    
+    <category term="WriteUp" scheme="https://dawn1ight.github.io/tags/WriteUp/"/>
+    
+  </entry>
+  
+  <entry>
     <title>第十八届全国大学生信息安全竞赛暨第二届“长城杯”铁人三项赛初赛 Crypto WriteUp</title>
     <link href="https://dawn1ight.github.io/post/43135/"/>
     <id>https://dawn1ight.github.io/post/43135/</id>
     <published>2024-12-17T16:00:00.000Z</published>
-    <updated>2024-12-30T07:22:07.200Z</updated>
+    <updated>2025-12-29T00:05:20.976Z</updated>
     
     
       
