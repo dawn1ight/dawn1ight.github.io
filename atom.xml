@@ -6,7 +6,7 @@
   <link href="https://dawn1ight.github.io/atom.xml" rel="self"/>
   
   <link href="https://dawn1ight.github.io/"/>
-  <updated>2025-12-29T02:09:25.342Z</updated>
+  <updated>2025-12-29T02:13:19.364Z</updated>
   <id>https://dawn1ight.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://dawn1ight.github.io/post/30479/"/>
     <id>https://dawn1ight.github.io/post/30479/</id>
     <published>2025-12-28T16:00:00.000Z</published>
-    <updated>2025-12-29T02:09:25.342Z</updated>
+    <updated>2025-12-29T02:13:19.364Z</updated>
     
     
       
@@ -184,33 +184,6 @@
   </entry>
   
   <entry>
-    <title>PatriotCTF 2024 Crypto Writeup</title>
-    <link href="https://dawn1ight.github.io/post/11600/"/>
-    <id>https://dawn1ight.github.io/post/11600/</id>
-    <published>2024-09-28T16:00:00.000Z</published>
-    <updated>2024-12-30T07:21:35.921Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;patriotctf-2024-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#patriotctf-2024-crypto-writeup&quot;&gt;&lt;/a&gt; PatriotCTF 2024 Crypto Writeup&lt;/h1&gt;
-&lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;About: PatriotCTF is a beginner-friendly capture-the-flag</summary>
-        
-      
-    
-    
-    
-    <category term="Crypto" scheme="https://dawn1ight.github.io/categories/Crypto/"/>
-    
-    
-    <category term="WriteUP" scheme="https://dawn1ight.github.io/tags/WriteUP/"/>
-    
-  </entry>
-  
-  <entry>
     <title>SCTF 2024 Crypto WriteUp</title>
     <link href="https://dawn1ight.github.io/post/30110/"/>
     <id>https://dawn1ight.github.io/post/30110/</id>
@@ -228,6 +201,33 @@
 &lt;p&gt;References:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Crypto" scheme="https://dawn1ight.github.io/categories/Crypto/"/>
+    
+    
+    <category term="WriteUP" scheme="https://dawn1ight.github.io/tags/WriteUP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PatriotCTF 2024 Crypto Writeup</title>
+    <link href="https://dawn1ight.github.io/post/11600/"/>
+    <id>https://dawn1ight.github.io/post/11600/</id>
+    <published>2024-09-28T16:00:00.000Z</published>
+    <updated>2024-12-30T07:21:35.921Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;patriotctf-2024-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#patriotctf-2024-crypto-writeup&quot;&gt;&lt;/a&gt; PatriotCTF 2024 Crypto Writeup&lt;/h1&gt;
+&lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;About: PatriotCTF is a beginner-friendly capture-the-flag</summary>
         
       
     
