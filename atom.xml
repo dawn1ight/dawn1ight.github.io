@@ -28,9 +28,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第十九届全国大学生信息安全竞赛-crypto-writeup&quot;&gt;第十九届全国大学生信息安全竞赛 Crypto WriteUp&lt;/h1&gt;
-&lt;h2 id=&quot;ecdsa&quot;&gt;ECDSA&lt;/h2&gt;
-&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;#!/usr/bin/env</summary>
+    <summary type="html">&lt;h1 id=&quot;第十九届全国大学生信息安全竞赛-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#第十九届全国大学生信息安全竞赛-crypto-writeup&quot;&gt;&lt;/a&gt; 第十九届全国大学生信息安全竞赛 Crypto WriteUp&lt;/h1&gt;
+&lt;h2 id=&quot;ecdsa&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#ecdsa&quot;&gt;&lt;/a&gt; ECDSA&lt;/h2&gt;
+&lt;figure class=&quot;highlight</summary>
         
       
     
@@ -55,10 +55,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第十八届全国大学生信息安全竞赛暨第二届-长城杯-铁人三项赛初赛-crypto-writeup&quot;&gt;第十八届全国大学生信息安全竞赛暨第二届“长城杯”铁人三项赛初赛 Crypto WriteUp&lt;/h1&gt;
+    <summary type="html">&lt;h1 id=&quot;第十八届全国大学生信息安全竞赛暨第二届长城杯铁人三项赛初赛-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#第十八届全国大学生信息安全竞赛暨第二届长城杯铁人三项赛初赛-crypto-writeup&quot;&gt;&lt;/a&gt; 第十八届全国大学生信息安全竞赛暨第二届“长城杯”铁人三项赛初赛 Crypto WriteUp&lt;/h1&gt;
 &lt;p&gt;References:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.a1natas.com/2024-CISCNxCCB/&quot;&gt;A1natas 2024 CISCN x 长城杯铁人三项 初赛 WriteUp&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a</summary>
         
       
@@ -84,9 +83,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;2024-国城杯-络安全挑战赛-crypto-writeup&quot;&gt;2024“国城杯”⽹络安全挑战赛 Crypto WriteUp&lt;/h1&gt;
-&lt;h2 id=&quot;curve&quot;&gt;Curve&lt;/h2&gt;
-&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;comment&quot;&gt;#sagemath&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+    <summary type="html">&lt;h1 id=&quot;2024国城杯网络安全挑战赛-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#2024国城杯网络安全挑战赛-crypto-writeup&quot;&gt;&lt;/a&gt; 2024“国城杯”⽹络安全挑战赛 Crypto WriteUp&lt;/h1&gt;
+&lt;h2 id=&quot;curve&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#curve&quot;&gt;&lt;/a&gt; Curve&lt;/h2&gt;
+&lt;figure class=&quot;highlight</summary>
         
       
     
@@ -111,11 +110,11 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第八届-强网杯-全国网络安全挑战赛-crypto-writeup&quot;&gt;第八届“强网杯”全国网络安全挑战赛 Crypto WriteUp&lt;/h1&gt;
+    <summary type="html">&lt;h1 id=&quot;第八届强网杯全国网络安全挑战赛-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#第八届强网杯全国网络安全挑战赛-crypto-writeup&quot;&gt;&lt;/a&gt; 第八届“强网杯”全国网络安全挑战赛 Crypto WriteUp&lt;/h1&gt;
 &lt;p&gt;第八届“强网杯”全国网络安全挑战赛 Crypto WriteUp By BOI - dawn1ight&lt;/p&gt;
 &lt;p&gt;References:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://blog.s1um4i.com/2024-QWBCTF/&quot;&gt;2024 强网杯 部分题解 -</summary>
+&lt;li&gt;&lt;a</summary>
         
       
     
@@ -140,9 +139,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;第四届-网鼎杯-网络安全大赛青龙组-crypto-writeup&quot;&gt;第四届“网鼎杯”网络安全大赛青龙组 Crypto WriteUp&lt;/h1&gt;
-&lt;h2 id=&quot;crypto01&quot;&gt;CRYPTO01&lt;/h2&gt;
-&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;from&lt;/span&gt; Crypto.Util.number</summary>
+    <summary type="html">&lt;h1 id=&quot;第四届网鼎杯网络安全大赛青龙组-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#第四届网鼎杯网络安全大赛青龙组-crypto-writeup&quot;&gt;&lt;/a&gt; 第四届“网鼎杯”网络安全大赛青龙组 Crypto WriteUp&lt;/h1&gt;
+&lt;h2 id=&quot;crypto01&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#crypto01&quot;&gt;&lt;/a&gt; CRYPTO01&lt;/h2&gt;
+&lt;figure</summary>
         
       
     
@@ -167,14 +166,11 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;shctf2024-crypto-writeup&quot;&gt;SHCTF2024 Crypto WriteUp&lt;/h1&gt;
+    <summary type="html">&lt;h1 id=&quot;shctf2024-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#shctf2024-crypto-writeup&quot;&gt;&lt;/a&gt; SHCTF2024 Crypto WriteUp&lt;/h1&gt;
 &lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;这里记录一下一些值得学习的题目&lt;/p&gt;
 &lt;p&gt;有些是板子题，也记录一下，现在年纪大了健忘😅&lt;/p&gt;
-&lt;p&gt;Challenges: &lt;a href=&quot;https://shc.tf/&quot;&gt;https://shc.tf/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;References:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a</summary>
+&lt;p&gt;Challenges: &lt;a</summary>
         
       
     
@@ -199,9 +195,9 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;patriotctf-2024-crypto-writeup&quot;&gt;PatriotCTF 2024 Crypto Writeup&lt;/h1&gt;
+    <summary type="html">&lt;h1 id=&quot;patriotctf-2024-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#patriotctf-2024-crypto-writeup&quot;&gt;&lt;/a&gt; PatriotCTF 2024 Crypto Writeup&lt;/h1&gt;
 &lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;About: PatriotCTF is a beginner-friendly capture-the-flag competition hosted by GMU’s cybersecurity club, MasonCC. All are welcome to</summary>
+&lt;p&gt;About: PatriotCTF is a beginner-friendly capture-the-flag</summary>
         
       
     
@@ -226,12 +222,12 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;sctf-2024-crypto-writeup&quot;&gt;SCTF 2024 Crypto WriteUp&lt;/h1&gt;
+    <summary type="html">&lt;h1 id=&quot;sctf-2024-crypto-writeup&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#sctf-2024-crypto-writeup&quot;&gt;&lt;/a&gt; SCTF 2024 Crypto WriteUp&lt;/h1&gt;
 &lt;p&gt;Author: &lt;em&gt;dawn1ight&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;这次题目质量都可以，每一个题都能学到新东西。&lt;/p&gt;
 &lt;p&gt;References:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://blog.wm-team.cn/index.php/archives/82/&quot;&gt;SCTF 2024 By W&amp;amp;M - W&amp;amp;M Team</summary>
+&lt;li&gt;&lt;a</summary>
         
       
     
